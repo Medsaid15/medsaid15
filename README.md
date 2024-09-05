@@ -14,7 +14,7 @@ I am a certified mobile application developer with a strong focus on Flutter and
 
 - **Flutter, Dart**: Proficient in developing mobile applications with Flutter and Dart.
 - **API Integration**: Experienced in integrating APIs with mobile applications.
-- **Firebase**: Knowledgeable in using Firebase for backend services.
+- **Firebase**: Knowledgeable in using Firebase for backend services and Firestore DB.
 - **SQLite**: Local Database.
 - **HTML, CSS**: Strong foundation in web technologies.
 - **Git & GitHub**: Efficient in version control using Git and managing repositories on GitHub.
