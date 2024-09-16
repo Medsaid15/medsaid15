@@ -37,7 +37,7 @@ I am a passionate and certified software developer focused on creating high-perf
 
 ## 📚 Key Projects
 
-- **MidJob App**: Built a job-matching app using Flutter and Supabase.
+- **MidlJob App**: Built a job-matching app using Flutter and Supabase.
 - **BeTheHope App**: Developed an app to showcase projects and accept donations with Firebase.
 - **Flutter Calculator**: Created a calculator app with real-time calculations and Dark/Light mode.
 - **Property Management App**: Developed a property management app using SQLite and Firebase.
