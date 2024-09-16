@@ -23,11 +23,11 @@ I am a passionate and certified software developer focused on creating high-perf
 
 ## 📈 Professional Experience
 
-### Flutter Developer Intern (MidJob - Remote, July 2024 – September 2024)
+### Flutter Developer Intern (MidlJob - Remote, July 2024 – September 2024)
 - Developed a cross-platform job-matching app using Flutter and Firebase.
 - Designed and optimized the UI for performance and responsiveness.
 - Implemented Firebase authentication and transitioned the backend to Supabase for real-time sync.
-- [MidJob App](https://www.midjob.com)
+- [MidlJob App](https://www.midljob.com)
 
 ### Mobile Developer Intern (BeTheHope Association, Tetouan - April 2023 – May 2023)
 - Developed a mobile app for project showcases and donations using Flutter.
