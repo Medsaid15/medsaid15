@@ -1,12 +1,12 @@
 # Mohamed Said Aouladbel Amri
 
-**Certified Flutter & Mobile Developer**
+**Software Developer**
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate and certified developer with a focus on creating high-performing mobile applications using Flutter, Dart, and Firebase. With experience across backend services, real-time databases, and cross-platform development, I consistently aim to deliver high-quality, scalable solutions. Known for my teamwork and problem-solving abilities, I take pride in working collaboratively and learning continuously to improve my technical skills. 
+I am a passionate and certified software developer focused on creating high-performing solutions across various platforms. With experience in backend services, real-time databases, and cross-platform development, I consistently aim to deliver high-quality, scalable applications. Known for my teamwork and problem-solving abilities, I take pride in working collaboratively and continuously learning to enhance my technical skills.
 
 ---
 
