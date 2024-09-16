@@ -1,5 +1,62 @@
 # Mohamed Said Aouladbel Amri
 
+**Certified Flutter & Mobile Developer**
+
+---
+
+## 👨‍💻 About Me
+
+I am a passionate and certified developer with a focus on creating high-performing mobile applications using Flutter, Dart, and Firebase. With experience across backend services, real-time databases, and cross-platform development, I consistently aim to deliver high-quality, scalable solutions. Known for my teamwork and problem-solving abilities, I take pride in working collaboratively and learning continuously to improve my technical skills. 
+
+---
+
+## 🔧 Technical Skills
+
+- **Mobile Development**: Flutter, Dart, Firebase, Supabase, Cross-platform development.
+- **Backend & Databases**: Firebase, Supabase, SQLite, Cloud Functions.
+- **API Integration**: Proficient in integrating RESTful APIs with mobile apps.
+- **Web Development**: HTML, CSS, JavaScript (ES6).
+- **Version Control & Tools**: Git, GitHub, VS Code, Android Studio.
+- **Additional Tech**: JWT, Agile methodologies.
+
+---
+
+## 📈 Professional Experience
+
+### Flutter Developer Intern (MidJob - Remote, July 2024 – September 2024)
+- Developed a cross-platform job-matching app using Flutter and Firebase.
+- Designed and optimized the UI for performance and responsiveness.
+- Implemented Firebase authentication and transitioned the backend to Supabase for real-time sync.
+- [MidJob App](https://www.midjob.com)
+
+### Mobile Developer Intern (BeTheHope Association, Tetouan - April 2023 – May 2023)
+- Developed a mobile app for project showcases and donations using Flutter.
+- Integrated Firebase for real-time data and user authentication.
+
+---
+
+## 📚 Key Projects
+
+- **MidJob App**: Built a job-matching app using Flutter and Supabase.
+- **BeTheHope App**: Developed an app to showcase projects and accept donations with Firebase.
+- **Flutter Calculator**: Created a calculator app with real-time calculations and Dark/Light mode.
+- **Property Management App**: Developed a property management app using SQLite and Firebase.
+- **Weather App**: Displayed real-time weather updates via a third-party API.
+- **NewsPress App**: Built an app to show the latest news using an external API.
+
+---
+
+## 📫 Contact
+
+- **Phone**: +212 633934477
+- **Email**: aouladbelamrimohamedsaid@gmail.com
+- **LinkedIn**: [Med Said](https://www.linkedin.com/in/med-said-6534b9206/)
+- **GitHub**: [medsaid15](https://github.com/medsaid15)
+- **Location**: Tetouan, Morocco
+
+<!--
+# Mohamed Said Aouladbel Amri
+
 **Flutter Developer**
 
 ---
@@ -31,7 +88,7 @@ I am a certified mobile application developer with a strong focus on Flutter and
 - **Email**: aouladbelamrimohamedsaid@gmail.com
 - **LinkedIn**: [Med said](https://www.linkedin.com/in/med-said-6534b9206/)
 - **Location**: Tetouan, Morocco
-
+-->
 
 
 
